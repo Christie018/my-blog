@@ -1,19 +1,19 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'ITCon 2023 WriteUp'
+excerpt: 'This is a writeup on the cybersecurity conference ITCon hosted by Emagine Engine.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-08-15T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: Mattalynn Darden
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+This year, I was able to go to ManageEngine's ITCon and I have nothing but good things to say. The events top takeaways from this event are that Manage Engine has a complete suite of over 120 information technology solutions available. This event was hosted at the Westin in Southfield and the venue proved to be amazing. Manage Engine had a full day planned for us and the event had a great turn out overall. I was pretty impressed at the corporation's ability to keep its technology updated with AI, cloud integration, machine learning, and zero trust. Getting into the highlights of the event, as it'd be near impossible to summarize the whole spectacle.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+I found the Service Desk Pro demonstration pretty compelling. Charles Arokiaraj Ignatius was one of ManageEngine's many subject matter experts onsite to give us a breakdown of each platform along with walkthrough of their demo instances. The solution has a lot of features and functionality to make the IT and operations experience easier for non-technical people in business. The platform not only allowed for different service desk instances for different departments such as IT, facilities, and HR, the whole end user interface was customizable with a drag and drop WYSIWYG html editor. The most underrated part of this platform was its ability to execute code on connected hosts with the ManageEngine agent installed. This feature allowed for workflows to be created to automate AD configuration and configure systems remotes via SSH and PowerShell.
 
-## Lorem Ipsum
+Throughout the day, I never stopped learning about how new technology was getting incorporated into company's operations. Ashwin A from ManageEngine's technical team really nailed it with his deep dive into their approach at incorporating AI into IT operations. This solution provides a way for organizations to automate workflows related to virtually all areas of network infrastructure. Their AIOps platform delivers a single interface for traffic analysis through SNMP, compliance, anomaly detection and automation. By the end of this presentation, I had a good overview of how to elevate a company's IT operations with their AI driven full stack management tool.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Aside from ManageEngine's knowledgeable speakers, we also got a chance to compete in a conference quiz for swag. I loved that we had a chance to interact with the other people at the event and its hosts. I was able to connect with some other information security professionals while I was there and learned about what's new and cutting edge in the tech world. I was even able to see a really cool raspberry pi zero with a RFID scanner, and some other cool white hat hacking capabilities. I could go on and on - there was a lot of good information and educated IT professionals there to network with. These were my top highlights from this year's ITCon in Southfield Michigan. I can't wait to see this corporation at future events and conferences!
