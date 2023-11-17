@@ -1,13 +1,13 @@
 ---
 title: 'ITCon 2023 WriteUp'
 excerpt: 'This is a writeup on the cybersecurity conference ITCon hosted by Emagine Engine.'
-coverImage: '/assets/blog/dynamic-routing/Sunflower-Background-.jpg'
+coverImage: '/assets/blog/ITCon2023/Sunflower-Background-.jpg'
 date: '2023-08-15T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/Sunflower-Background-.jpg'
+  url: '/assets/blog/ITCon2023/Sunflower-Background-.jpg'
 ---
 
 This year, I was able to go to ManageEngine's ITCon and I have nothing but good things to say. The events top takeaways from this event are that Manage Engine has a complete suite of over 120 information technology solutions available. This event was hosted at the Westin in Southfield and the venue proved to be amazing. Manage Engine had a full day planned for us and the event had a great turn out overall. I was pretty impressed at the corporation's ability to keep its technology updated with AI, cloud integration, machine learning, and zero trust. Getting into the highlights of the event, as it'd be near impossible to summarize the whole spectacle.
