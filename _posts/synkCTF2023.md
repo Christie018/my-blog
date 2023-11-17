@@ -3,13 +3,13 @@ title: 'Synk CTF 2023 WriteUp'
 excerpt: 'With this CTF, I was able to get more experience with solving web and pwn capture the flag challenges.
 
 This CTF also gave me a chance to get some exposure to the Synk platform. It allows me as a Bug Bounty Hunter, CTF advocate, and open source development contributor, to find and automatically fix vulnerabilities in code, open source dependencies, containers, and IaC. Overall, I was able to see how to incorporate this tool powered by Snyk’s and DeepCode AI into my code reviews, and vulnerability scanning process.'
-coverImage: '/assets/blog/hello-world/Sunflower-Background-.jpg'
+coverImage: '/assets/blog/synkCTF2023/Sunflower-Background-.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
 ogImage:
-  url: '/assets/blog/hello-world/Sunflower-Background-.jpg'
+  url: '/assets/blog/synkCTF2023/Sunflower-Background-.jpg'
 ---
 
 This CTF was provided by Snyk. With the Snyk platform, you can find and automatically fix vulnerabilities in your projects for free. I used Snyk this time to detect vulnerabilities in this CTF challenge to uncover hidden flags faster. Snyk has a quick and easy installation with really helpful documentation. It's dependencies include node.js and python3. Once you have these packages installed you can finish your CLI Snyk installation with the simple command npm install snyk. The CLI also requires for you to have a free online Snyk account to authenticate with in order to run tests locally.
