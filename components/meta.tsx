@@ -5,21 +5,21 @@ const Meta = () => {
   return (
     <Head>
       <link
-        rel="apple-touch-icon"
+        rel="Sunflower-Background-"
         sizes="180x180"
-        href="/favicon/apple-touch-icon.png"
+        href="/favicon/Sunflower-Background-.jpg"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="/favicon/favicon-32x32.png"
+        href="/favicon/Sunflower-Background-.jpg"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="/favicon/favicon-16x16.png"
+        href="/favicon/Sunflower-Background-.jpg"
       />
       <link rel="manifest" href="/favicon/site.webmanifest" />
       <link
@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        content={`Mattalynn Darden - Cybersecurity Professional`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
