@@ -7,7 +7,9 @@ const Intro = () => {
         Mattie's InfoSec Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Cybersecurity Professional. Check out my Linked in profile: {' '}
+        Cybersecurity Professional. 
+        <br></br>
+        Check out my Linked in profile: {' '}
         <a
           href="https://linkedin.com/in/mattalynn-darden"
           className="underline hover:text-blue-600 duration-200 transition-colors"

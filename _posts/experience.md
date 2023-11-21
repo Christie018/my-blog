@@ -1,13 +1,13 @@
 ---
 title: 'Experiece'
-excerpt: 'A little more background on what I do.'
-coverImage: '/assets/blog/experience/Sunflower-Background-.jpg'
+excerpt: 'A little more background on what who I am and what I do.'
+coverImage: '/assets/blog/experience/black-girls-hack.jpg'
 date: '2023-11-17T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
 ogImage:
-  url: '/assets/blog/experience/Sunflower-Background-.jpg'
+  url: '/assets/blog/experience/black-girls-hack.jpg'
 ---
 
 ## Bug Bounty Hunter | Ethical Hacker

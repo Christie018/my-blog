@@ -1,13 +1,13 @@
 ---
 title: 'The Official Cybersecurity Summit Detroit 2023 - Sponsored by Fortinet and CISCO Secure'
 excerpt: 'A technical writeup and recap of this all-day information security summit held in the downtown Detroit GMRenCen.'
-coverImage: '/assets/blog/officialCyberSecurityConf/Sunflower-Background-.jpg'
+coverImage: '/assets/blog/officialCyberSecurityConf/official-cyber-security-summit.jpg'
 date: '2023-08-16T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
 ogImage:
-  url: '/assets/blog/officialCyberSecurityConf/Sunflower-Background-.jpg'
+  url: '/assets/blog/officialCyberSecurityConf/official-cyber-security-summit.jpg'
 ---
 
 I was very honored to be able to represent Turnkey Linux as head of cybersecurity at this year's Official Cybersecurity Summit at the GMRenCen in Detroit. The city is and will always be beautiful to me, I love being by the water. I'd also like to thank Red Canary for providing me with the ticket voucher as I enjoyed my time and learned a lot about new and emerging trends in information security.
