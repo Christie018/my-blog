@@ -2,13 +2,19 @@
 title: 'Experiece'
 excerpt: 'A little more background on what who I am and what I do.'
 coverImage: '/assets/blog/experience/black-girls-hack.jpg'
-date: '2023-11-17T05:35:07.322Z'
+date: '2023-11-25T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
 ogImage:
   url: '/assets/blog/experience/black-girls-hack.jpg'
 ---
+
+<Christie.sullivan018@gmail.com>
+
+ [My LinkedIn Profile](https://linkedin.com/in/mattalynn-darden)
+ 
+[Turnkey Linux Website](https://turnkeylinux.org/blog)
 
 ## Bug Bounty Hunter | Ethical Hacker
 
