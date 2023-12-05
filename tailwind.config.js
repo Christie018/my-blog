@@ -3,6 +3,11 @@ module.exports = {
   content: ['./components/**/*.tsx', './pages/**/*.tsx'],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['"Fira Code", sans-serif'],
+        font1: ['"Press Start 2P", sans-serif'],
+        font2: ['"Fira Code", sans-serif'],
+      },
       colors: {
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
