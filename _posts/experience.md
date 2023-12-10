@@ -2,7 +2,7 @@
 title: 'Experiece'
 excerpt: 'A little more background on what who I am and what I do.'
 coverImage: '/assets/blog/experience/black-girls-hack.jpg'
-date: '2023-11-25T05:35:07.322Z'
+date: '2023-12-10T05:35:07.322Z'
 author:
   name: Mattalynn Darden
   picture: '/assets/blog/authors/Mattalynn_Darden.jpg'
