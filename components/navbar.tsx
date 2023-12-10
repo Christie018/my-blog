@@ -8,6 +8,7 @@ const navigation = [
   { name: 'IT Con WriteUp', href: '/posts/ITCon2023', current: false },
   { name: 'Cybersecurity Summit Write Up', href: '/posts/officialCyberSecurityConf', current: false },
   { name: 'Projects', href: '/posts/projects', current: false },
+  { name: 'Podcast', href: '/posts/podcast', current: false },
 ]
 
 function classNames(...classes) {

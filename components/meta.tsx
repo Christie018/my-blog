@@ -37,6 +37,17 @@ const Meta = () => {
         content={`Mattalynn Darden - Cybersecurity Professional`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <html prefix="og: http://ogp.me/ns#">
+<head>
+  <title>Mattie's Cybersecurity Portfolio</title>
+  <meta property="og:title" content="Mattie's Cybersecurity Portfolio" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://www.nytimes.com/2017/08/14/science/eclipse-chasers-first.html" />
+  <meta property="og:image" content="public/assets/blog/experience/black-girls-hack.jpg" />
+  ...
+</head>
+...
+</html>
     </Head>
   )
 }
