@@ -39,7 +39,6 @@ const Meta = () => {
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
       <html prefix="og: http://ogp.me/ns#"/>
     </Head>
-
   )
 }
 
